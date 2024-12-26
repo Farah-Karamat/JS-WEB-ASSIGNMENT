@@ -1,0 +1,22 @@
+body{
+background: url(https://static.vecteezy.com/system/resources/thumbnails/033/355/035/small_2x/gladiolus-flower-on-a-wood-background-with-copy-space-ai-generative-free-photo.jpg);
+background-size: cover;
+}
+
+p{
+border: 5px solid silver;
+height: 250px;
+width: 250px;
+text-align: center;
+color: silver;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: bold;
+font-size: 30px;
+border-radius: 20px;
+box-shadow: rgba(191, 220, 200, 0.25) 0px 54px 55px, rgba(140, 175, 149, 0.12) 0px -12px 30px, rgba(144, 180, 154, 0.12) 0px 4px 6px, rgba(140, 200, 151, 0.17) 0px 12px 13px, rgba(148, 214, 163, 0.09) 0px -3px 5px;
+padding: 10px;
+margin-top: 40px;
+
+}

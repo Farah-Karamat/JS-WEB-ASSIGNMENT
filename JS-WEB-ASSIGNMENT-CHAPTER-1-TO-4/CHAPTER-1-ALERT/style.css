@@ -1,0 +1,21 @@
+body{
+background: url(https://t3.ftcdn.net/jpg/01/91/76/94/360_F_191769490_Yocn4WgUQq4ySA4FoyUyR4De2NAwyFmN.jpg);
+background-size: cover;
+}
+
+p{
+border: 5px solid rgb(220, 171, 177);
+height: 100px;
+width: 300px;
+text-align: center;
+color: rgb(220, 171, 177);
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: bold;
+font-size: 30px;
+border-radius: 20px;
+box-shadow: rgba(193, 11, 11, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;padding: 15px;
+margin-top: 5px;
+
+}

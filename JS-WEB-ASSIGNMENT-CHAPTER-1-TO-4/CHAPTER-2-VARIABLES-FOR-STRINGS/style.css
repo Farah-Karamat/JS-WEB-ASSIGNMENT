@@ -1,0 +1,22 @@
+body{
+    background: url(https://thumbs.dreamstime.com/b/old-woody-texture-dark-color-cornflower-flowers-dark-woody-background-abstract-wood-texture-old-woody-texture-336119134.jpg);
+    background-size: cover;
+    }
+    
+    p{
+    border: 5px solid black;
+    height: 200px;
+    width: 250px;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 20px;
+    box-shadow: rgba(20, 8, 190, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(46, 9, 194, 0.12) 0px 4px 6px, rgba(45, 11, 179, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;padding: 15px;
+    padding: 10px;
+    margin-top: 30px;
+    
+    }
